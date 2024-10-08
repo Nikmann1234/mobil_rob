@@ -4,7 +4,7 @@
   <name>mobil_rob</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <maintainer email="nikolaj.madsen007@gmail.com">Nikolaj Arild Madsen</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
